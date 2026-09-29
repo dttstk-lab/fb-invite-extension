@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "FB Event Auto Inviter",
+  "version": "1.0",
+  "description": "Tự động click chọn bạn bè để mời tham gia sự kiện Facebook.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
